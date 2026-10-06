@@ -30,3 +30,5 @@ The app has five tabs:
 | **Forecast** | Predicted water/CO₂ trends and load-reduction tips |
 
 Navigate with the bottom tab bar. No login or setup required.
+
+https://github.com/user-attachments/assets/67002525-9dae-4fee-a5e2-0631fdd80993
